@@ -1,0 +1,41 @@
+.caja{
+	border: solid black;
+	background-color: #715D5D;
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+
+
+
+.cajapadre {
+	border: solid black;
+	background-color: #715D5D;
+	height: 120px;
+	width: 400px;
+	margin: 5px;
+	padding: 10px;
+	
+    
+}
+.segundo{
+	border: solid black;
+	background-color: #715D5D;
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	display: inline-block;
+	padding: 1px;
+
+}
+
+.lineal{
+	border: solid black;
+	background-color: #715D5D;
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	display: inline-block;
+
+}
+
